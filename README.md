@@ -28,7 +28,7 @@ This repository shows my work as a **Blockchain Developer, Consultant, and Techn
 Python logic (buy/sell/staking/bonding curve) → JSON test vectors for 1:1 validation → Solidity contracts (DemoToken.sol, DemoStaking.sol) → Frontend / Backend integration.
 
 ![Migration Flow: Python logic (buy/sell/staking/bonding curve) → JSON test vectors for 1:1 validation → Solidity contracts (DemoToken.sol, DemoStaking.sol) → Frontend / Backend integration.](flowchart.png)  
-Figure:Validation Flow — Python calculations are converted into structured JSON test vectors, used to verify Solidity outputs before integration.
+Figure: Validation Flow — Python calculations are converted into structured JSON test vectors, used to verify Solidity outputs before integration.
 
 ### Migration Flow
 *Python logic (buy/sell/staking/bonding curve) → JSON test vectors for 1:1 validation → Solidity contracts (DemoToken.sol, DemoStaking.sol) → Frontend / Backend integration.*
