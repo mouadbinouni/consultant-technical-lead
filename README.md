@@ -1,6 +1,6 @@
 # consultant-technical-lead
 
-This repository demonstrates my skills as a **Blockchain Devoloper / Consultant / Technical Lead** for a Python → Solidity migration project. It includes secure ERC20 token and staking contracts, Python validation, test vectors, and migration flowcharts.
+This repository demonstrates my skills as a Blockchain Developer, Consultant, and Technical Lead for a Python → Solidity migration project. It includes secure ERC20 token and staking contracts, Python validation, test vectors, and migration flowcharts.
 
 ---
 
