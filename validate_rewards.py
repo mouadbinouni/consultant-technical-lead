@@ -17,8 +17,8 @@ for vector in test_vectors:
     expected = vector["expected_reward"]
 
     reward = calculate_rewards(staked_amount, reward_rate, blocks)
+    match = "✅" if abs(reward - expected) < 1e-8 else "❌"
 
     print(f"User: {user}")
     print(f"  Staked: {staked_amount}, Blocks: {blocks}, Rate: {reward_rate}")
-    print(f"  Expected Reward: {expected}, Calculated Reward: {reward}")
-    print(f"  Match: {'✅' if abs(reward - expected) < 1e-8 else '❌'}\n")
+    print(f"  Expected: {expected}, Calculated: {reward} -> {match}\n")
